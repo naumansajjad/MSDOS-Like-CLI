@@ -1,2 +1,4 @@
-# MSDos-Like-CLI-using-C-
+# MSDos Like CLI using C++
 A command line interface using C++ for interacting with file system
+
+It has some limitations that is you cannot read/write text files.
